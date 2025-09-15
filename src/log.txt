@@ -1,0 +1,29 @@
+commit 2f0856c92d1f4d4f526df47b3b3066ac21a0ba07
+Author: Martin Ortega <lynxestudio@outlook.com>
+Date:   Mon Sep 15 14:22:12 2025 -0600
+
+    Adds source code to the project
+
+commit 1074ef9a27d01ab47f2490c988e4d560b58a3f64
+Author: Martin A. Ortega <lynxestudio@outlook.com>
+Date:   Tue Dec 31 01:30:39 2024 -0600
+
+    Updates paragraphs in README
+
+commit 943a635afc69b7dc40554e9c17ba24acc1326b9b
+Author: Martin A. Ortega <lynxestudio@outlook.com>
+Date:   Tue Dec 31 01:17:01 2024 -0600
+
+    Adds images to the project
+
+commit 9576516bb1930433c5ac732ddfc92e0ff0f2a312
+Author: Martin Ortega-Marquez <131516478+lynxestudio@users.noreply.github.com>
+Date:   Tue Dec 31 01:11:40 2024 -0600
+
+    Update README.md
+
+commit 2392b949e06363ed59b85ee6869737f370948975
+Author: Martin Ortega-Marquez <131516478+lynxestudio@users.noreply.github.com>
+Date:   Sat Dec 28 17:39:37 2024 -0600
+
+    Adds README.md
