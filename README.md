@@ -138,7 +138,7 @@ You can specify a priority when you add an object to the cache. In most cases, t
 Cached items can become invalid because the source of the data has changed. For example, if you cache data from an XML file and the file changes, the cached item becomes out-of date. When you add items to the cache, you can specify files, directories, and other cache items on which they depend. If these objects change, the cached item is automatically removed. You can use this feature to ensure that the cache always contains the most up-to-date information.
 </p>
 <p align="justify">
-The following example shows how to use Session and Cache objects.
+The following example shows how to use Session and Cache objects. This example uses <a href="https://github.com/oracle-samples/db-sample-schemas">Oracle HR Sample Schema</a>
 </p>
 <div><b>Fig 1 Running the example</b></div>
 <img src="images/fig1.png" width="1363" height="664" alt="">
