@@ -134,6 +134,15 @@ Cache.Insert("value1","Example Text",null,DateTime.Now.AddMinutes(2),System.Web.
 You can specify a priority when you add an object to the cache. In most cases, the caching system will scavenge low-priority items before high-priority items when system memory becomes scarce.
 </p>
 <strong>Cache Dependencies</strong>
-<p align¡="justify">
+<p align="justify">
 Cached items can become invalid because the source of the data has changed. For example, if you cache data from an XML file and the file changes, the cached item becomes out-of date. When you add items to the cache, you can specify files, directories, and other cache items on which they depend. If these objects change, the cached item is automatically removed. You can use this feature to ensure that the cache always contains the most up-to-date information.
 </p>
+<p align="justify">
+The following example shows how to use Session and Cache objects.
+</p>
+<div><b>Fig 1 Running the example</b></div>
+<img src="images/fig1.png" width="1363" height="664" alt="">
+<div><b>Fig 2 Adding one record to the session and binds to the grid.</b></div>
+<img src="images/fig2.png" width="1248" height="594" alt="">
+<div><b>Fig 3 Adding more records</b></div>
+<img src="images/fig3.png" width="1343" height="591" alt="">
